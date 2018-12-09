@@ -4,8 +4,8 @@ Program hakkında kısa açıklama:
 
 KURULUM : postalaa.exe dosyasını masaüstünde çalıştırmanız yeterlidir. Oluşacak Veri tabanınıza (P.xlsx) alıcılarınızın bilgilerini girmeniz gereklidir. Kullanım kılavuzu için YARDIM butonu tıklanmalıdır.Program ücretsiz kullanılmaktadır. Kullanıcılardan görüş, eleştiri ve eklenti isteği göndermeleri beklenmektedir.
 
-Sistem Gereklilikleri :
+Sistem Gereksinimleri :
 
-WINDOWS
+WINDOWS xp/2000/Vista/7/8/10 - 
 
-EXCEL
+MICROSOFT EXCEL
