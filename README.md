@@ -12,7 +12,7 @@ MICROSOFT EXCEL
 
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
-postalaa.exe v.1.0.1 Beta (ENGLISH / İNGİLİZCE) 
+# postalaa.exe v.1.0.1 Beta (ENGLISH / İNGİLİZCE) 
 
 Brief description of the program: 
 
