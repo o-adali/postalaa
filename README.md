@@ -10,10 +10,13 @@ WINDOWS xp/2000/Vista/7/8/10 -
 
 MICROSOFT EXCEL
 
-'/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
-postalaa.exe v.1.0.1 Beta (İNGİLİZCE / ENGLISH)
-Brief description of the program: It is designed to deliver a large number of files to multiple recipients at once. With the folder containing the files to be sent, the recipients in the program database are automatically paired with the name or a different ID number and each file is sent to the corresponding recipient. To give an example of how to use: Postalaa.exe user, who has downloaded certified declarations of their taxpayers and their accrual receipts to the folder on his computer, informs the taxpayers of these files to the program database (... \ postalaa \ 2-Sys \ P.xlsx file) If you have saved LIST> Mail Subject and Send Message (a common message addressed to all recipients)> PREPARE> SEND button will be forwarded to the owners of all the files.
+postalaa.exe v.1.0.1 Beta (İNGİLİZCE / ENGLISH) 
+
+Brief description of the program: 
+
+It is designed to deliver a large number of files to multiple recipients at once. With the folder containing the files to be sent, the recipients in the program database are automatically paired with the name or a different ID number and each file is sent to the corresponding recipient. To give an example of how to use: Postalaa.exe user, who has downloaded certified declarations of their taxpayers and their accrual receipts to the folder on his computer, informs the taxpayers of these files to the program database (... \ postalaa \ 2-Sys \ P.xlsx file) If you have saved LIST> Mail Subject and Send Message (a common message addressed to all recipients)> PREPARE> SEND button will be forwarded to the owners of all the files.
 
 INSTALLATION: Just run the postalaa.exe file on the desktop. It is necessary to enter your recipients' information into your database (P.xlsx). Please click HELP button for user manual. The program is used free of charge. Users are expected to submit comments, criticism and add-on requests.
 
