@@ -10,7 +10,6 @@ WINDOWS xp/2000/Vista/7/8/10 -
 
 MICROSOFT EXCEL
 
-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
 ## postalaa.exe v.1.0.1 Beta (ENGLISH) 
 
