@@ -30,8 +30,5 @@ It is designed to deliver a large number of files to multiple recipients at once
 INSTALLATION: 
 Just run the postalaa.exe file on the desktop. It is necessary to enter your recipients' information into your database (P.xlsx). It is possible to automatically transfer your Outlook contacts to the program database during setup. Please click HELP button for user manual. The program is distributed GNU licence. Used free of charge. Users are expected to submit comments, criticism and add-on requests.
 
-System requirements :
+System requirements : WINDOWS xp/2000/ME/Vista/7/8/10 - MICROSOFT EXCEL
 
-WINDOWS xp / 2000 / Vista / 7/8/10 -
-
-MICROSOFT EXCEL
