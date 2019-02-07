@@ -10,7 +10,7 @@ postalaa.exe dosyasını masaüstünde çalıştırmanız yeterlidir. Oluşacak 
 
                             32 Bit Windows işletim sistemi için;
 [1.Adım] Orijinal dosyayı Microsoft sitesinden indirin ve C:\Windows\System32 içerisine kopyalayın                           
-[2.Adım] Başlat > Çalıştır > CMD > Ctrl+Shift+Enter ile yönetici olarak komut istemini çalıştırın.
+[2.Adım] Başlat > Çalıştır > CMD > Ctrl+Shift+Enter ile yönetici olarak komut istemini çalıştırın.      
 [3.Adım] regsvr32 comctl32.ocx yazıp enter girin.
 
                             64 Bit Windows işletim sistemi için;
