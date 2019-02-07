@@ -6,7 +6,7 @@ Program hakkında kısa açıklama:
 KURULUM : 
 postalaa.exe dosyasını masaüstünde çalıştırmanız yeterlidir. Oluşacak Veri tabanınıza (P.xlsx) alıcılarınızın bilgilerini girmeniz gereklidir. Kurulum sırasında outlook kişilerinizin program veritabanına otomatik aktarılması mümkündür. Kullanım kılavuzu için YARDIM butonu tıklanmalıdır. Program GNU lisans ile dağıtılmaktadır. Ücretsizdir. Kullanıcılardan görüş, eleştiri ve eklenti isteği göndermeleri beklenmektedir.
 
-ÖNEMLİ !!! : Kurulum sırasında "Unexpected Error" alınıyorsa bilgisayarınızda VB6 çalışması için gerekli olan "comctl32.ocx" dosyasının register edilmesi gerekir. Bunun için aşağıdaki adımları uygulayın.
+ÖNEMLİ !!! : Kurulum sırasında "Unexpected Error" alınıyorsa bilgisayarınızda VB6 uygulamalarının çalışabilmesi için gerekli olan "comctl32.ocx" dosyasının register edilmesi gerekir. Bunun için aşağıdaki adımları uygulayın.
 
                             32 Bit Windows işletim sistemi için;
 [1.Adım] Orijinal dosyayı Microsoft sitesinden indirin ve C:\Windows\System32 içerisine kopyalayın                           
